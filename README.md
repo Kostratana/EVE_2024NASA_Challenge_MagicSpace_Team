@@ -1,4 +1,4 @@
-# NASA_project 
+# EVE_2024NASA_Challenge_MagicSpace_Team
 
 
 
